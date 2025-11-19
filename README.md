@@ -1,6 +1,6 @@
 # ⏱️ Compose List Timers
 
-An Android Jetpack Compose project that displays a list of 30 items where **each row contains a timer** that starts incrementing **only when the item becomes visible** on screen.
+An Android Jetpack Compose project that displays a list of 100 items where **each row contains a timer** that starts incrementing **only when the item becomes visible** on screen.
 
 All logic is handled in a **ViewModel**, and the UI observes state updates following MVVM best practices.
 
